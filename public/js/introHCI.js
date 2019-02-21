@@ -11,3 +11,4 @@ $(document).ready(function() {
 function initializePage() {
 	// your code here
 }
+gtag("send", "event", <'like'>, <'click'>);
